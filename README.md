@@ -1,3 +1,3 @@
-# Hello_world
+# Duplicate
 
 Welcome to the land of living...Jumanji
